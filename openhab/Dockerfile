@@ -1,6 +1,6 @@
-FROM openhab/openhab:2.0.0-amd64
+FROM openhab/openhab:2.1.0-amd64
 LABEL org.freenas.interactive="false" 		\
-      org.freenas.version="2.0.0"		\
+      org.freenas.version="2.1.0"		\
       org.freenas.upgradeable="true"		\
       org.freenas.expose-ports-at-host="true"	\
       org.freenas.autostart="true"		\
