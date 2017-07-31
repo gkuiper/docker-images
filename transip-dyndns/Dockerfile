@@ -1,4 +1,4 @@
-FROM RolfKoenders/transip-dyndns:latest
+FROM rolfkoenders/transip-dyndns:latest
 LABEL org.freenas.interactive="false" 					\
       org.freenas.version="1" 						\
       org.freenas.upgradeable="true" 					\
